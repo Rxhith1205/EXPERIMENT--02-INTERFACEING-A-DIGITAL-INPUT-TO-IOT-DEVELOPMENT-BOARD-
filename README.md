@@ -104,9 +104,10 @@ while (1)
 ```
 ## Output  :
 # ON :
-![image](https://github.com/user-attachments/assets/672bd370-f4d2-45b4-bebc-43402a16a93f)
+![421811398-672bd370-f4d2-45b4-bebc-43402a16a93f](https://github.com/user-attachments/assets/04df8100-ff59-41a5-b2cc-94a5458ea6dd)
 # OFF :
-![image](https://github.com/user-attachments/assets/c1f40fbb-9e0a-45cf-9470-0b887b2cf5fb)
+![421811684-c1f40fbb-9e0a-45cf-9470-0b887b2cf5fb](https://github.com/user-attachments/assets/ca38a670-ed12-4e97-8361-59ba6959d9e7)
+
 
 ## Result :
 Interfacing a digital Input (ir pair) with ARM microcontroller based IOT development is executed and the results are verified.
